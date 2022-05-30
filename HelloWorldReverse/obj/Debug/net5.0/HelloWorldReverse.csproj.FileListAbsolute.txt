@@ -1,0 +1,16 @@
+C:\Users\KristjanMändmets\source\repos\StringsAndArrays\HelloWorldReverse\obj\Debug\net5.0\HelloWorldReverse.csproj.AssemblyReference.cache
+C:\Users\KristjanMändmets\source\repos\StringsAndArrays\HelloWorldReverse\obj\Debug\net5.0\HelloWorldReverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KristjanMändmets\source\repos\StringsAndArrays\HelloWorldReverse\obj\Debug\net5.0\HelloWorldReverse.AssemblyInfoInputs.cache
+C:\Users\KristjanMändmets\source\repos\StringsAndArrays\HelloWorldReverse\obj\Debug\net5.0\HelloWorldReverse.AssemblyInfo.cs
+C:\Users\KristjanMändmets\source\repos\StringsAndArrays\HelloWorldReverse\obj\Debug\net5.0\HelloWorldReverse.csproj.CoreCompileInputs.cache
+C:\Users\KristjanMändmets\source\repos\StringsAndArrays\HelloWorldReverse\bin\Debug\net5.0\HelloWorldReverse.exe
+C:\Users\KristjanMändmets\source\repos\StringsAndArrays\HelloWorldReverse\bin\Debug\net5.0\HelloWorldReverse.deps.json
+C:\Users\KristjanMändmets\source\repos\StringsAndArrays\HelloWorldReverse\bin\Debug\net5.0\HelloWorldReverse.runtimeconfig.json
+C:\Users\KristjanMändmets\source\repos\StringsAndArrays\HelloWorldReverse\bin\Debug\net5.0\HelloWorldReverse.runtimeconfig.dev.json
+C:\Users\KristjanMändmets\source\repos\StringsAndArrays\HelloWorldReverse\bin\Debug\net5.0\HelloWorldReverse.dll
+C:\Users\KristjanMändmets\source\repos\StringsAndArrays\HelloWorldReverse\bin\Debug\net5.0\ref\HelloWorldReverse.dll
+C:\Users\KristjanMändmets\source\repos\StringsAndArrays\HelloWorldReverse\bin\Debug\net5.0\HelloWorldReverse.pdb
+C:\Users\KristjanMändmets\source\repos\StringsAndArrays\HelloWorldReverse\obj\Debug\net5.0\HelloWorldReverse.dll
+C:\Users\KristjanMändmets\source\repos\StringsAndArrays\HelloWorldReverse\obj\Debug\net5.0\ref\HelloWorldReverse.dll
+C:\Users\KristjanMändmets\source\repos\StringsAndArrays\HelloWorldReverse\obj\Debug\net5.0\HelloWorldReverse.pdb
+C:\Users\KristjanMändmets\source\repos\StringsAndArrays\HelloWorldReverse\obj\Debug\net5.0\HelloWorldReverse.genruntimeconfig.cache

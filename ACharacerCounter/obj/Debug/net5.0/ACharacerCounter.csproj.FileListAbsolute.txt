@@ -1,0 +1,16 @@
+C:\Users\KristjanMändmets\source\repos\StringsAndArrays\ACharacerCounter\bin\Debug\net5.0\ACharacerCounter.exe
+C:\Users\KristjanMändmets\source\repos\StringsAndArrays\ACharacerCounter\bin\Debug\net5.0\ACharacerCounter.deps.json
+C:\Users\KristjanMändmets\source\repos\StringsAndArrays\ACharacerCounter\bin\Debug\net5.0\ACharacerCounter.runtimeconfig.json
+C:\Users\KristjanMändmets\source\repos\StringsAndArrays\ACharacerCounter\bin\Debug\net5.0\ACharacerCounter.runtimeconfig.dev.json
+C:\Users\KristjanMändmets\source\repos\StringsAndArrays\ACharacerCounter\bin\Debug\net5.0\ACharacerCounter.dll
+C:\Users\KristjanMändmets\source\repos\StringsAndArrays\ACharacerCounter\bin\Debug\net5.0\ref\ACharacerCounter.dll
+C:\Users\KristjanMändmets\source\repos\StringsAndArrays\ACharacerCounter\bin\Debug\net5.0\ACharacerCounter.pdb
+C:\Users\KristjanMändmets\source\repos\StringsAndArrays\ACharacerCounter\obj\Debug\net5.0\ACharacerCounter.csproj.AssemblyReference.cache
+C:\Users\KristjanMändmets\source\repos\StringsAndArrays\ACharacerCounter\obj\Debug\net5.0\ACharacerCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KristjanMändmets\source\repos\StringsAndArrays\ACharacerCounter\obj\Debug\net5.0\ACharacerCounter.AssemblyInfoInputs.cache
+C:\Users\KristjanMändmets\source\repos\StringsAndArrays\ACharacerCounter\obj\Debug\net5.0\ACharacerCounter.AssemblyInfo.cs
+C:\Users\KristjanMändmets\source\repos\StringsAndArrays\ACharacerCounter\obj\Debug\net5.0\ACharacerCounter.csproj.CoreCompileInputs.cache
+C:\Users\KristjanMändmets\source\repos\StringsAndArrays\ACharacerCounter\obj\Debug\net5.0\ACharacerCounter.dll
+C:\Users\KristjanMändmets\source\repos\StringsAndArrays\ACharacerCounter\obj\Debug\net5.0\ref\ACharacerCounter.dll
+C:\Users\KristjanMändmets\source\repos\StringsAndArrays\ACharacerCounter\obj\Debug\net5.0\ACharacerCounter.pdb
+C:\Users\KristjanMändmets\source\repos\StringsAndArrays\ACharacerCounter\obj\Debug\net5.0\ACharacerCounter.genruntimeconfig.cache
